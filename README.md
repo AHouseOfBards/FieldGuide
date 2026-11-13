@@ -10,7 +10,7 @@ watch, in every Jellyfin app.
 FieldGuide is one of the [Campground](https://github.com/AHouseOfBards/Campground-Jellyfin) plugins
 for Jellyfin. When it's ready, it will be offered in Campground.
 
-Built with AI assistance.
+FieldGuide is written with assistance from artificial intelligence models, but is still primarily built, tested and maintained by me, Bards.
 
 ## License
 
